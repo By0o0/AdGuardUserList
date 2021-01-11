@@ -1,0 +1,43 @@
+iqshw.com###hd_float
+52huixz.com##div.footer:nth-child(5) > div.downapp:last-child
+52huixz.com##div.footer:nth-child(6) > div.downapp:last-child
+52huixz.com##.downapp
+xiaogegh.com##.xiaoge_erweima
+mimi857.com##.shareaddqrcode
+xiaogegh.com##div.index_fixed:nth-child(13)
+seo.5118.com###\38 _Place_511813 > tbody > tr > td > table > tbody > tr:first-child > td > div
+seo.5118.com###\38 _Place_511812 > tbody > tr > td > table
+seo.5118.com###\38 _Place_511811 > tbody > tr > td
+seo.5118.com###\38 _Place_51188 > tbody > tr > td > table > tbody > tr:first-child > td > div
+vipiu.net###page > div.header-sub:nth-child(4)
+vipiu.net###page > div.header-sub:nth-child(5)
+vipiu.net###sidebar > div.theiaStickySidebar
+5118.com##.lianmeng-common-footer
+###\38 _Place_511838
+5118.com##.toshare-piao
+###bimg
+seo.5118.com##.misc-left-pay
+seo.5118.com##.lianmeng-seo-center-layer6-page
+###\38 _Place_511815
+qqyewu.com##div.index:nth-child(2) > div.innerbox.clearfix > div.hf:nth-child(2)
+qqyewu.com##.yh
+jishuqq.com##div.main:nth-child(9) > a:first-child
+jishuqq.com##header:nth-child(2) > div.head:nth-child(2) > div.topBanner:nth-child(2)
+##div.main:nth-child(11) > a:first-child
+jishuqq.com##.topBanner
+##div.index:nth-child(2) > div.innerbox.clearfix > a:nth-child(5)
+##div.index:nth-child(2) > div.innerbox.clearfix > a:nth-child(7)
+qqjishu.com##.adtext
+qqjishu.com##div.container:nth-child(2) > div.new-position:nth-child(4) > div.left:last-child > div.dad.addd.layui-carousel:nth-child(2)
+qqjishu.com##div.container:nth-child(2) > div.new-position:nth-child(4) > div.left:last-child > div.dad.addd.layui-carousel:first-child
+qqjishu.com##header:first-child > div.header-important:nth-child(2) > div.container.layui-clear > a:nth-child(2)
+qqjishu.com##.adn
+asianclub.tv#@%#//scriptlet("prevent-addEventListener", "click", "window.open")
+asianclub.tv#@%#//scriptlet("prevent-window-open")
+asianclub.tv#@%#AG_onLoad(function() { setTimeout(function() { var el = document.querySelector('a.fakeplaybutton[href]'); if(el) { el.removeAttribute('href'); } }, 500); });
+netflav.com###video-container > div.videoiframe_root:first-child > div.videoiframe_container > div:first-child
+netflav.com###video-details > div:first-child > div
+netflav.com###video-details > div:last-child > div:last-child > div
+netflav.com###main_segment > div.page_root_2 > div.block_container > div:first-child > div
+netflav.com###main_segment > div.page_root_2 > div.block_container > div:last-child > div
+netflav.com###video-container > div:nth-child(4) > div
