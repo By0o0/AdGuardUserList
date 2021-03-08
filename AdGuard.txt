@@ -43,3 +43,4 @@ netflav.com###main_segment > div.page_root_2 > div.block_container > div:last-ch
 netflav.com###video-container > div:nth-child(4) > div
 seo.chinaz.com##div.backtoTop.backtoTop-new.backfix:nth-child(47)
 seo.chinaz.com##div.wrapper.h130.mb10.clearfix:nth-child(3) > a:first-child
+seo.chinaz.com##div.backtoTop.backtoTop-new.backfix:nth-child(49) > div.toItem:first-child
