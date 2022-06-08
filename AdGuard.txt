@@ -44,3 +44,7 @@ netflav.com###video-container > div:nth-child(4) > div
 seo.chinaz.com##div.backtoTop.backtoTop-new.backfix:nth-child(47)
 seo.chinaz.com##div.wrapper.h130.mb10.clearfix:nth-child(3) > a:first-child
 seo.chinaz.com##div.backtoTop.backtoTop-new.backfix:nth-child(49) > div.toItem:first-child
+jishuziyuan.net##div.container:nth-child(3) > div.index-top-abd:first-child
+juejin.cn###juejin > div.view-container:first-child > main.container.main-container:last-child > div.view.column-view > div.sidebar:nth-child(3) > ul.sidebar-bd-entry:nth-child(2)
+juejin.cn###juejin > div.view-container:first-child > main.container.main-container:last-child > div.view.column-view > div.sidebar:nth-child(3) > div.sidebar-block.app-download-sidebar-block.shadow:nth-child(3)
+xiaogegh.com##div.index_fixed:nth-child(11)
