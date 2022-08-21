@@ -48,3 +48,9 @@ jishuziyuan.net##div.container:nth-child(3) > div.index-top-abd:first-child
 juejin.cn###juejin > div.view-container:first-child > main.container.main-container:last-child > div.view.column-view > div.sidebar:nth-child(3) > ul.sidebar-bd-entry:nth-child(2)
 juejin.cn###juejin > div.view-container:first-child > main.container.main-container:last-child > div.view.column-view > div.sidebar:nth-child(3) > div.sidebar-block.app-download-sidebar-block.shadow:nth-child(3)
 xiaogegh.com##div.index_fixed:nth-child(11)
+m.nbyy.tv###adSkinInner > div.ph-skin-wrap:last-child > div:nth-child(3)
+m.nbyy.tv###st-1
+vidhub.cc###main > div.player-block:first-child > div.content > div.player-info:nth-child(2) > div.module:last-child
+vidhub.cc##.module
+vidhub.cc###main > div.content > div.module:nth-child(4)
+https://i0.hdslb.com/bfs/album/12d5412e3d138919610b6931fc14faae81e72516.png$domain=vidhub.cc
